@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+friends = ['Geo','Pia','Tintin','Dandan']
+
+for friend in friends:
+  print("Hi " + friend)
